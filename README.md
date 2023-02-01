@@ -12,7 +12,7 @@
 
 ![Alt Text](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Visitor Counter: [![HitCount](http://hits.dwyl.com/{username}/{repo}.svg)](http://hits.dwyl.com/{username}/{repo})
+Visitor Counter: [![HitCount](http://hits.dwyl.com/aymensakouhi/aymensakouhi.svg)](http://hits.dwyl.com/aymensakouhi/aymensakouhi)
 
 I'm a coding enthusiast, always on the lookout for new and interesting projects to work on.
 
