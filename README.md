@@ -12,7 +12,7 @@
 
 ![Alt Text](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Visitor Counter:   [![HitCount](https://hits.dwyl.com/AymenSakouhi/AymenSakouhi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AymenSakouhi/AymenSakouhi)
+Visitor Counter:  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) 
 I'm a coding enthusiast, always on the lookout for new and interesting projects to work on.
 
 Why do programmers always mix up Halloween and Christmas?
